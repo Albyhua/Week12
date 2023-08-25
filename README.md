@@ -24,7 +24,7 @@ To use this application, follow the steps below:
 
 3. Select the prompts that is best suited for your needs.
 
-<video src="assets/schema.sql%20-%20challenge%2012%20-%20Visual%20Studio%20Code%202023-08-24%2017-55-21.mp4" controls title="Title"></video>
+[![Video](assets/schema.sql%20-%20challenge%2012%20-%20Visual%20Studio%20Code%202023-08-24%2017-55-21.mp4)](assets/schema.sql%20-%20challenge%2012%20-%20Visual%20Studio%20Code%202023-08-24%2017-55-21.mp4)
 
 
 
