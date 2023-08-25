@@ -24,7 +24,9 @@ To use this application, follow the steps below:
 
 3. Select the prompts that is best suited for your needs.
 
-[![Video](assets/schema.sql%20-%20challenge%2012%20-%20Visual%20Studio%20Code%202023-08-24%2017-55-21.mp4)](assets/schema.sql%20-%20challenge%2012%20-%20Visual%20Studio%20Code%202023-08-24%2017-55-21.mp4)
+
+https://github.com/Albyhua/Week12/assets/134244028/2e239ec5-ce66-488d-be0b-74c5ebaaf2b4
+
 
 
 
